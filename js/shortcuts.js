@@ -1,44 +1,50 @@
 export default [
   {
-    category: "Dev",
+    category: "dev",
     color: "cyan",
     items: {
       Github: "https://github.com",
-      AWS: "https://aws.amazon.com",
-      "Dev.to": "https://dev.to",
-      Firebase: "https://console.firebase.google.com/u/0",
     },
   },
   {
-    category: "School",
+    category: "Ssocial",
     color: "red",
     items: {
-      Outlook: "https://outlook.office365.com/mail/inbox",
-      Canvas: "https://sit.instructure.com",
-      MyStevens: "https://login.stevens.edu/app/UserHome",
+      Gmail: "https://mail.google.com/mail/u/0/#inbox",
+      Hotmail: "https://outlook.live.com/mail/0/",
+      Reddit: "https://www.reddit.com/",
+      "Reddit (Popular)": "https://www.reddit.com/",
+      Youtube: "https://www.youtube.com/",
+      Twitter: "https://www.twitter.com/",
     },
   },
   {
-    category: "Work",
+    category: "hack",
     color: "green",
     items: {
-      Linkedin: "https://linkedin.com",
-      Twitter: "https://twitter.com",
-      Leetcode: "https://leetcode.com",
-      Handshake: "https://app.joinhandshake.com/stu/postings",
-      Indeed: "https://www.indeed.com/",
+      HackTheBox: "https://www.hackthebox.com/",
+      TryHackMe: "https://tryhackme.com/",
+
     },
   },
   {
-    category: "Misc",
+    category: "4chan",
     color: "purple",
     items: {
-      Trakt: "https://trakt.tv/users/peterrauscher/lists",
-      YouTube: "https://www.youtube.com/",
-      Fmovies: "https://fmovies.to/home",
-      Zoro: "https://zoro.to",
-      TempMail: "https://tempmail.email/",
-      // IPTorrents: "https://iptorrents.com/t",
+      gif: "https://boards.4chan.org/gif/catalog",
+      pol: "https://boards.4chan.org/pol/catalog",
+      x: "https://boards.4chan.org/x/catalog",
+      b: "https://boards.4chan.org/b/catalog",
+    },
+  },
+  {
+    category: "downloads",
+    color: "purple",
+    items: {
+      gif: "https://boards.4chan.org/gif/catalog",
+      pol: "https://boards.4chan.org/pol/catalog",
+      x: "https://boards.4chan.org/x/catalog",
+      b: "https://boards.4chan.org/b/catalog",
     },
   },
 ];
