@@ -24,7 +24,6 @@ export default [
     items: {
       HackTheBox: "https://www.hackthebox.com/",
       TryHackMe: "https://tryhackme.com/",
-
     },
   },
   {
