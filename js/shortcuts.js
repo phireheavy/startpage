@@ -3,11 +3,12 @@ export default [
     category: "social",
     color: "red",
     items: {
-      gmail: "https://mail.google.com/mail/u/0/#inbox",
-      hotmail: "https://outlook.live.com/mail/0/",
+      whatsapp: "https://web.whatsapp.com/",
+      youtube: "https://www.youtube.com/",
       reddit: "https://www.reddit.com/",
       "reddit (Popular)": "https://www.reddit.com/r/popular",
-      youtube: "https://www.youtube.com/",
+      gmail: "https://mail.google.com/mail/u/0/#inbox",
+      hotmail: "https://outlook.live.com/mail/0/",
       twitter: "https://www.twitter.com/",
       instagram: "https://www.instagram.com/",
     },
@@ -43,7 +44,17 @@ export default [
   },
   {
     category: "downloads",
-    color: "purple",
+    color: "orange",
+    items: {
+      fitgirl: "https://fitgirl-repacks.site/",
+      dodi: "https://dodi-repacks.site/",
+      "cs.rin.ru": "https://cs.rin.ru/",
+      tl: "https://www.torrentleech.org/",
+    },
+  },
+  {
+    category: "music",
+    color: "blue",
     items: {
       fitgirl: "https://fitgirl-repacks.site/",
       dodi: "https://dodi-repacks.site/",
