@@ -6,7 +6,7 @@ export default [
       gmail: "https://mail.google.com/mail/u/0/#inbox",
       hotmail: "https://outlook.live.com/mail/0/",
       reddit: "https://www.reddit.com/",
-      "reddit (Popular)": "https://www.reddit.com/",
+      "reddit (Popular)": "https://www.reddit.com/r/popular",
       youtube: "https://www.youtube.com/",
       twitter: "https://www.twitter.com/",
       instagram: "https://www.instagram.com/",
