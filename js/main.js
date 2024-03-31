@@ -39,7 +39,12 @@ input.addEventListener("keydown", function (e) {
 window.addEventListener("load", () => {
   executors.ls();
   executors.motd();
-  let filenames = ["alex-ichim-gunship-b.jpg","411820.jpg","ezOgN0q.jpg","wallhaven-r2g7rm.jpg"];
+  let filenames = [
+    "alex-ichim-gunship-b.jpg",
+    "411820.jpg",
+    "ezOgN0q.jpg",
+    "wallhaven-r2g7rm.jpg",
+  ];
   let root = document.getElementsByTagName("html")[0];
   root.style.backgroundImage = `url("./backgrounds/${
     filenames[Math.floor(Math.random() * filenames.length)]
