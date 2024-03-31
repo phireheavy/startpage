@@ -1,13 +1,5 @@
 export default [
   {
-    category: "dev",
-    color: "cyan",
-    items: {
-      github: "https://github.com",
-      codewars: "https://www.codewars.com/",
-    },
-  },
-  {
     category: "social",
     color: "red",
     items: {
@@ -20,6 +12,17 @@ export default [
       instagram: "https://www.instagram.com/",
     },
   },
+  {
+    category: "dev",
+    color: "cyan",
+    items: {
+      notion: "https://www.notion.so",
+      todoist: "https://www.todoist.com",
+      github: "https://github.com",
+      codewars: "https://www.codewars.com/",
+    },
+  },
+
   {
     category: "hack",
     color: "green",
