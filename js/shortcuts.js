@@ -56,10 +56,10 @@ export default [
     category: "music",
     color: "blue",
     items: {
-      fitgirl: "https://fitgirl-repacks.site/",
-      dodi: "https://dodi-repacks.site/",
-      "cs.rin.ru": "https://cs.rin.ru/",
-      tl: "https://www.torrentleech.org/",
+      spacewave: "https://www.youtube.com/@spacewavecr",
+      ambientmusiclab: "https://www.youtube.com/@MusicLabAmbient",
+      chillmusiclab: "https://www.youtube.com/@MusicLabChill",
+      lofigirl: "https://www.youtube.com/@LofiGirl",
     },
   },
 ];
