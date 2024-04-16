@@ -23,7 +23,7 @@ export default [
       github: "https://github.com",
       codewars: "https://www.codewars.com/",
       codewars: "https://www.codewars.com/",
-      isc2:"https://isc2.obrizum.io/org/cc",
+      isc2: "https://isc2.obrizum.io/org/cc",
     },
   },
 
