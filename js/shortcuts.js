@@ -10,6 +10,7 @@ export default [
       "reddit (Popular)": "https://www.reddit.com/r/popular",
       gmail: "https://mail.google.com/mail/u/0/#inbox",
       hotmail: "https://outlook.live.com/mail/0/",
+      proton: "https://mail.proton.me/u/0/inbox",
       twitter: "https://www.twitter.com/",
       instagram: "https://www.instagram.com/",
     },
