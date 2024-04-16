@@ -5,6 +5,7 @@ export default [
     items: {
       whatsapp: "https://web.whatsapp.com/",
       youtube: "https://www.youtube.com/",
+      twitch: "https://www.twitch.com/",
       reddit: "https://www.reddit.com/",
       "reddit (Popular)": "https://www.reddit.com/r/popular",
       gmail: "https://mail.google.com/mail/u/0/#inbox",
@@ -21,6 +22,8 @@ export default [
       todoist: "https://www.todoist.com",
       github: "https://github.com",
       codewars: "https://www.codewars.com/",
+      codewars: "https://www.codewars.com/",
+      isc2:"https://isc2.obrizum.io/org/cc",
     },
   },
 
@@ -33,7 +36,7 @@ export default [
     },
   },
   {
-    category: "4chan",
+    category: "darkweb",
     color: "purple",
     items: {
       gif: "https://boards.4chan.org/gif/catalog",
