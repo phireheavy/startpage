@@ -64,6 +64,7 @@ export default [
       ambientmusiclab: "https://www.youtube.com/@MusicLabAmbient",
       chillmusiclab: "https://www.youtube.com/@MusicLabChill",
       lofigirl: "https://www.youtube.com/@LofiGirl",
+      9128: "https://9128.live/",
     },
   },
 ];
